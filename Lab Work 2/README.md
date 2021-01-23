@@ -1,5 +1,8 @@
-# G7
-Group 7
+# Lab Work 2
+The objective of the program is to determine the similarity between two texts, target and reference. <br>
+One of the solutions is to use finite-context models to represent the reference and through this model determine the number of bits needed to make the target compression. <br>
+For the language recognition system several references should be provided corresponding to several languages, so that the system is more precise. One of the challenges consists in selecting good references, both in size and content.<br>
+An additional objective is the program to make the target languages recognized by segments.
 
 # Elements
 
