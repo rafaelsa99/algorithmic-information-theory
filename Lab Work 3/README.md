@@ -1,5 +1,6 @@
-# G7
-Group 7
+# Lab Work 3
+The objective of the program is to perform the identification of music through small samples, using the Normalized Compression Distance (NCD). <br>
+The NCD is calculated based on compressors, and will indicate the degree of similarity between a song and the sample, being that the smaller the value, bigger the degree of similarity.
 
 # Elements
 
