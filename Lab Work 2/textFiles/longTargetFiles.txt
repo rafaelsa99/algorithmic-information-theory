@@ -1,0 +1,102 @@
+Afrikaans,textFiles/targetFiles/afrikaans_long.txt
+Albanian,textFiles/targetFiles/albanian_long.txt
+Amharic,textFiles/targetFiles/amharic_long.txt
+Arabic,textFiles/targetFiles/arabic_long.txt
+Armenian,textFiles/targetFiles/armenian_long.txt
+Assamese,textFiles/targetFiles/assamese_long.txt
+Azerbaijani,textFiles/targetFiles/azerbaijani_long.txt
+Belarusian,textFiles/targetFiles/belarusian_long.txt
+Bengali,textFiles/targetFiles/bengali_long.txt
+Bhojpuri,textFiles/targetFiles/bhojpuri_long.txt
+Bosnian,textFiles/targetFiles/bosnian_long.txt
+Bulgarian,textFiles/targetFiles/bulgarian_long.txt
+Burmese,textFiles/targetFiles/burmese_long.txt
+Cantonese,textFiles/targetFiles/cantonese_long.txt
+Catalan,textFiles/targetFiles/catalan_long.txt
+Cebuano,textFiles/targetFiles/cebuano_long.txt
+Central Khmer,textFiles/targetFiles/central_khmer_long.txt
+Croatian,textFiles/targetFiles/croatian_long.txt
+Czech,textFiles/targetFiles/czech_long.txt
+Danish,textFiles/targetFiles/danish_long.txt
+Dhivehi,textFiles/targetFiles/dhivehi_long.txt
+Dutch,textFiles/targetFiles/dutch_long.txt
+Egyptian Arabic,textFiles/targetFiles/egyptian_arabic_long.txt
+English,textFiles/targetFiles/english_long.txt
+Estonian,textFiles/targetFiles/estonian_long.txt
+Faroese,textFiles/targetFiles/faroese_long.txt
+Finnish,textFiles/targetFiles/finnish_long.txt
+French,textFiles/targetFiles/french_long.txt
+Georgian,textFiles/targetFiles/georgian_long.txt
+German,textFiles/targetFiles/german_long.txt
+Gujarati,textFiles/targetFiles/gujarati_long.txt
+Haitian Creole,textFiles/targetFiles/haitian_creole_long.txt
+Hakka Chinese,textFiles/targetFiles/hakka_chinese_long.txt
+Hausa,textFiles/targetFiles/hausa_long.txt
+Hebrew,textFiles/targetFiles/hebrew_long.txt
+Hindi,textFiles/targetFiles/hindi_long.txt
+Hungarian,textFiles/targetFiles/hungarian_long.txt
+Icelandic,textFiles/targetFiles/icelandic_long.txt
+Indonesian,textFiles/targetFiles/indonesian_long.txt
+Irish,textFiles/targetFiles/irish_long.txt
+Italian,textFiles/targetFiles/italian_long.txt
+Jamaican Patois,textFiles/targetFiles/jamaican_patois_long.txt
+Japanese,textFiles/targetFiles/japanese_long.txt
+Javanese,textFiles/targetFiles/javanese_long.txt
+Kannada,textFiles/targetFiles/kannada_long.txt
+Kazakh,textFiles/targetFiles/kazakh_long.txt
+Kinyarwanda,textFiles/targetFiles/kinyarwanda_long.txt
+Konkani,textFiles/targetFiles/konkani_long.txt
+Korean,textFiles/targetFiles/korean_long.txt
+Kurdish,textFiles/targetFiles/kurdish_long.txt
+Lao,textFiles/targetFiles/lao_long.txt
+Latin,textFiles/targetFiles/latin_long.txt
+Latvian,textFiles/targetFiles/latvian_long.txt
+Literary Chinese,textFiles/targetFiles/literary_chinese_long.txt
+Lithuanian,textFiles/targetFiles/lithuanian_long.txt
+Luganda,textFiles/targetFiles/luganda_long.txt
+Macedonian,textFiles/targetFiles/macedonian_long.txt
+Malagasy,textFiles/targetFiles/malagasy_long.txt
+Malay,textFiles/targetFiles/malay_long.txt
+Malayalam,textFiles/targetFiles/malayalam_long.txt
+Marathi,textFiles/targetFiles/marathi_long.txt
+Min Nan Chinese,textFiles/targetFiles/min_nan_chinese_long.txt
+Modern Greek,textFiles/targetFiles/modern_greek_long.txt
+Mongolian,textFiles/targetFiles/mongolian_long.txt
+Nepali (macrolanguage),textFiles/targetFiles/nepali_macrolanguage_long.txt
+Norwegian Bokmal,textFiles/targetFiles/norwegian_bokmal_long.txt
+Norwegian Nynorsk,textFiles/targetFiles/norwegian_nynorsk_long.txt
+Oriya,textFiles/targetFiles/oriya_long.txt
+Panjabi,textFiles/targetFiles/panjabi_long.txt
+Persian,textFiles/targetFiles/persian_long.txt
+Polish,textFiles/targetFiles/polish_long.txt
+Portuguese,textFiles/targetFiles/portuguese_long.txt
+Pushto,textFiles/targetFiles/pushto_long.txt
+Quechua,textFiles/targetFiles/quechua_long.txt
+Romanian,textFiles/targetFiles/romanian_long.txt
+Russian,textFiles/targetFiles/russian_long.txt
+Serbian,textFiles/targetFiles/serbian_long.txt
+Serbo-Croatian,textFiles/targetFiles/serbo_Croatian_long.txt
+Sinhala,textFiles/targetFiles/sinhala_long.txt
+Slovak,textFiles/targetFiles/slovak_long.txt
+Slovene,textFiles/targetFiles/slovene_long.txt
+Somali,textFiles/targetFiles/somali_long.txt
+Spanish,textFiles/targetFiles/spanish_long.txt
+Standard Chinese,textFiles/targetFiles/standard_chinese_long.txt
+Swahili (macrolanguage),textFiles/targetFiles/swahili_macrolanguage_long.txt
+Swedish,textFiles/targetFiles/swedish_long.txt
+Tagalog,textFiles/targetFiles/tagalog_long.txt
+Tamil,textFiles/targetFiles/tamil_long.txt
+Telugu,textFiles/targetFiles/telugu_long.txt
+Thai,textFiles/targetFiles/thai_long.txt
+Tibetan,textFiles/targetFiles/tibetan_long.txt
+Tswana,textFiles/targetFiles/tswana_long.txt
+Turkish,textFiles/targetFiles/turkish_long.txt
+Ukrainian,textFiles/targetFiles/ukrainian_long.txt
+Urdu,textFiles/targetFiles/urdu_long.txt
+Uzbek,textFiles/targetFiles/uzbek_long.txt
+Vietnamese,textFiles/targetFiles/vietnamese_long.txt
+Welsh,textFiles/targetFiles/welsh_long.txt
+Wolof,textFiles/targetFiles/wolof_long.txt
+Wu Chinese,textFiles/targetFiles/wu_chinese_long.txt
+Xhosa,textFiles/targetFiles/xhosa_long.txt
+Yiddish,textFiles/targetFiles/yiddish_long.txt

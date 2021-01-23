@@ -1,0 +1,102 @@
+Afrikaans,../textFiles/targetFiles/afrikaans_short.txt
+Albanian,../textFiles/targetFiles/albanian_short.txt
+Amharic,../textFiles/targetFiles/amharic_short.txt
+Arabic,../textFiles/targetFiles/arabic_short.txt
+Armenian,../textFiles/targetFiles/armenian_short.txt
+Assamese,../textFiles/targetFiles/assamese_short.txt
+Azerbaijani,../textFiles/targetFiles/azerbaijani_short.txt
+Belarusian,../textFiles/targetFiles/belarusian_short.txt
+Bengali,../textFiles/targetFiles/bengali_short.txt
+Bhojpuri,../textFiles/targetFiles/bhojpuri_short.txt
+Bosnian,../textFiles/targetFiles/bosnian_short.txt
+Bulgarian,../textFiles/targetFiles/bulgarian_short.txt
+Burmese,../textFiles/targetFiles/burmese_short.txt
+Cantonese,../textFiles/targetFiles/cantonese_short.txt
+Catalan,../textFiles/targetFiles/catalan_short.txt
+Cebuano,../textFiles/targetFiles/cebuano_short.txt
+Central Khmer,../textFiles/targetFiles/central_khmer_short.txt
+Croatian,../textFiles/targetFiles/croatian_short.txt
+Czech,../textFiles/targetFiles/czech_short.txt
+Danish,../textFiles/targetFiles/danish_short.txt
+Dhivehi,../textFiles/targetFiles/dhivehi_short.txt
+Dutch,../textFiles/targetFiles/dutch_short.txt
+Egyptian Arabic,../textFiles/targetFiles/egyptian_arabic_short.txt
+English,../textFiles/targetFiles/english_short.txt
+Estonian,../textFiles/targetFiles/estonian_short.txt
+Faroese,../textFiles/targetFiles/faroese_short.txt
+Finnish,../textFiles/targetFiles/finnish_short.txt
+French,../textFiles/targetFiles/french_short.txt
+Georgian,../textFiles/targetFiles/georgian_short.txt
+German,../textFiles/targetFiles/german_short.txt
+Gujarati,../textFiles/targetFiles/gujarati_short.txt
+Haitian Creole,../textFiles/targetFiles/haitian_creole_short.txt
+Hakka Chinese,../textFiles/targetFiles/hakka_chinese_short.txt
+Hausa,../textFiles/targetFiles/hausa_short.txt
+Hebrew,../textFiles/targetFiles/hebrew_short.txt
+Hindi,../textFiles/targetFiles/hindi_short.txt
+Hungarian,../textFiles/targetFiles/hungarian_short.txt
+Icelandic,../textFiles/targetFiles/icelandic_short.txt
+Indonesian,../textFiles/targetFiles/indonesian_short.txt
+Irish,../textFiles/targetFiles/irish_short.txt
+Italian,../textFiles/targetFiles/italian_short.txt
+Jamaican Patois,../textFiles/targetFiles/jamaican_patois_short.txt
+Japanese,../textFiles/targetFiles/japanese_short.txt
+Javanese,../textFiles/targetFiles/javanese_short.txt
+Kannada,../textFiles/targetFiles/kannada_short.txt
+Kazakh,../textFiles/targetFiles/kazakh_short.txt
+Kinyarwanda,../textFiles/targetFiles/kinyarwanda_short.txt
+Konkani,../textFiles/targetFiles/konkani_short.txt
+Korean,../textFiles/targetFiles/korean_short.txt
+Kurdish,../textFiles/targetFiles/kurdish_short.txt
+Lao,../textFiles/targetFiles/lao_short.txt
+Latin,../textFiles/targetFiles/Latin_short.txt
+Latvian,../textFiles/targetFiles/latvian_short.txt
+Literary Chinese,../textFiles/targetFiles/literary_chinese_short.txt
+Lithuanian,../textFiles/targetFiles/lithuanian_short.txt
+Luganda,../textFiles/targetFiles/luganda_short.txt
+Macedonian,../textFiles/targetFiles/macedonian_short.txt
+Malagasy,../textFiles/targetFiles/malagasy_short.txt
+Malay,../textFiles/targetFiles/malay_short.txt
+Malayalam,../textFiles/targetFiles/malayalam_short.txt
+Marathi,../textFiles/targetFiles/marathi_short.txt
+Min Nan Chinese,../textFiles/targetFiles/min_nan_chinese_short.txt
+Modern Greek,../textFiles/targetFiles/modern_greek_short.txt
+Mongolian,../textFiles/targetFiles/mongolian_short.txt
+Nepali (macrolanguage),../textFiles/targetFiles/nepali_macrolanguage_short.txt
+Norwegian Bokmal,../textFiles/targetFiles/norwegian_bokmal_short.txt
+Norwegian Nynorsk,../textFiles/targetFiles/norwegian_nynorsk_short.txt
+Oriya,../textFiles/targetFiles/oriya_short.txt
+Panjabi,../textFiles/targetFiles/panjabi_short.txt
+Persian,../textFiles/targetFiles/persian_short.txt
+Polish,../textFiles/targetFiles/polish_short.txt
+Portuguese,../textFiles/targetFiles/portuguese_short.txt
+Pushto,../textFiles/targetFiles/pushto_short.txt
+Quechua,../textFiles/targetFiles/quechua_short.txt
+Romanian,../textFiles/targetFiles/romanian_short.txt
+Russian,../textFiles/targetFiles/russian_short.txt
+Serbian,../textFiles/targetFiles/serbian_short.txt
+Serbo-Croatian,../textFiles/targetFiles/serbo_Croatian_short.txt
+Sinhala,../textFiles/targetFiles/sinhala_short.txt
+Slovak,../textFiles/targetFiles/slovak_short.txt
+Slovene,../textFiles/targetFiles/slovene_short.txt
+Somali,../textFiles/targetFiles/somali_short.txt
+Spanish,../textFiles/targetFiles/spanish_short.txt
+Standard Chinese,../textFiles/targetFiles/standard_chinese_short.txt
+Swahili (macrolanguage),../textFiles/targetFiles/swahili_macrolanguage_short.txt
+Swedish,../textFiles/targetFiles/swedish_short.txt
+Tagalog,../textFiles/targetFiles/tagalog_short.txt
+Tamil,../textFiles/targetFiles/tamil_short.txt
+Telugu,../textFiles/targetFiles/telugu_short.txt
+Thai,../textFiles/targetFiles/thai_short.txt
+Tibetan,../textFiles/targetFiles/tibetan_short.txt
+Tswana,../textFiles/targetFiles/tswana_short.txt
+Turkish,../textFiles/targetFiles/turkish_short.txt
+Ukrainian,../textFiles/targetFiles/ukrainian_short.txt
+Urdu,../textFiles/targetFiles/urdu_short.txt
+Uzbek,../textFiles/targetFiles/uzbek_short.txt
+Vietnamese,../textFiles/targetFiles/vietnamese_short.txt
+Welsh,../textFiles/targetFiles/welsh_short.txt
+Wolof,../textFiles/targetFiles/wolof_short.txt
+Wu Chinese,../textFiles/targetFiles/wu_chinese_short.txt
+Xhosa,../textFiles/targetFiles/xhosa_short.txt
+Yiddish,../textFiles/targetFiles/yiddish_short.txt

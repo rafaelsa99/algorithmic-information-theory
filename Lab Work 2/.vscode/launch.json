@@ -1,0 +1,54 @@
+{
+
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Precision",
+            "request": "launch",
+            "mainClass": "Precision",
+            "args": "2 0.1 \"textFiles/longTargetFiles.txt\" \"textFiles/references_short.txt\" \"textFiles/langReferences.txt\"",
+            "projectName": "Lab Work 2_bd25ef4f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LanguageRecognitionMain",
+            "request": "launch",
+            "mainClass": "LanguageRecognitionMain",
+            "projectName": "Lab Work 2_bd25ef4f"
+        },
+        {
+            "name": "Java",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ]
+        },
+        {
+            "name": "Java Console App",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ],
+            "externalConsole": true
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
