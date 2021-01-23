@@ -1,5 +1,5 @@
-# G7
-Group 7
+# Algorithmic Information Theory
+Practical assignments of the Algorithmic Information Theory course of the Masters in Informatics Engineering of the University of Aveiro.
 
 # Elements
 
