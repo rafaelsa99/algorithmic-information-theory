@@ -1,5 +1,5 @@
 # Lab Work 1
-The objective of the program is to create a model with the purpose of collecting statistical information about texts, using finite-context models . <br>
+The objective of the program is to create a model with the purpose of collecting statistical information about texts, using finite-context models. <br>
 A finite-context (Markov) model, of order k, produces the probability distribution of the next symbol in a sequence of symbols, considering the recent history up to the depth k.
 
 # Elements
