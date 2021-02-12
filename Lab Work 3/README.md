@@ -41,6 +41,9 @@ To run the program simply run the commands below in the bin directory.
 ### Requirements:
 Java Runtime Environment <br>
 The project directory, and files, must have all permissions (read, write and execute).
+```
+chmod 777 * -R
+```
 
 
 ### Parameters:
